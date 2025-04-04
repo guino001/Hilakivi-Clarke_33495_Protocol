@@ -6,7 +6,7 @@
 ## 📁 Repository Description
 
 This repository contains the R code and documentation used to perform the **power analysis** for the IRB-approved research protocol titled:  
-**"Personalized diet-induced changes in the gut microbiome and breast cancer risk"** (Protocol ID: 33495).
+**"Personalized diet-induced changes in the gut microbiome"** (Protocol ID: 33495).
 
 The study investigates how individualized dietary interventions modulate the gut microbiome in human participants and explores how these changes influence **breast cancer risk** in a preclinical mouse model via **fecal microbiota transplantation (FMT)**.
 
